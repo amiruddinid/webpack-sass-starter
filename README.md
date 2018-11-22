@@ -1,5 +1,3 @@
-
-
 ## Frontend Starter
 
 ### Cara pakai
@@ -19,10 +17,10 @@
 ### Running
 Cara run starter ini :
 ```    npm run start ```
-> Secara otomatis akan membuat server di [http://localhost:8080](http://localhost:8080)
-> Jika ada file yang kalian ganti dan di save, server otomatis di reload
+>- Secara otomatis akan membuat server di [http://localhost:8080/](http://localhost:8080/).
+>- Jika ada file yang kalian ganti dan di save, server akan secara otomatis ter-reload
 > dan webpack akan ngebundling file kalian
-> File - file yang perlu diganti hanya di folder src
+>- File - file yang perlu diganti hanya di folder src
 
 ### Struktur folder
 ```
